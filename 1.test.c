@@ -35,7 +35,7 @@ int main(int argc, char **argv)
 /*
 	printf("version3\n");
 	printf("\n  *	\
-			\n ***	\
+	        \n ***	\
 			\n*****	\
 			\n ***	\
 			\n  *	\
