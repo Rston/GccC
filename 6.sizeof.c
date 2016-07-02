@@ -1,7 +1,7 @@
 /*
  * 公司：XXXX
  * 作者：Rston
- * 项目：数组
+ * 项目：C语言之数组
  * 功能：sizeof运算符。
  */
 #include <stdio.h>

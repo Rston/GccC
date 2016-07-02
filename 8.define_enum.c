@@ -1,14 +1,14 @@
 /*
  * 公司：XXXX
  * 作者：Rston
- * 项目：结构体、共用体、枚举
+ * 项目：结构体和共用体及枚举
  * 功能：对比宏定义和枚举的不同。
  */
  
 #include <stdio.h>
 
 // 使用宏定义定义目标集合
-/*
+#if 0
 #define SUN	0
 #define MON 1
 #define TUE	2
@@ -18,7 +18,7 @@
 #define SAT	6
 
 #define N 10
-*/
+#endif
 
 // 构造枚举类型，名字叫enum week
 enum week
@@ -65,7 +65,8 @@ int main(int argc, char **argv)
 			break;
 	}
 
-/*	// 宏定义中N的值可能会超出集合中的数值范围
+#if 0
+	// 宏定义中N的值可能会超出集合中的数值范围
 	int today = N;
 	
 	switch (today)
@@ -95,6 +96,7 @@ int main(int argc, char **argv)
 			printf("NO.\n");
 			break;
 	}
-*/
+#endif
+
 	return 0;
 }

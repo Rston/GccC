@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：C语言内存管理机制
- * 功能：演示堆内存使用范例
+ * 功能：演示堆内存使用范例。
  */
 #include <stdio.h>
 #include <stdlib.h>

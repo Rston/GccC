@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：数组指针和函数指针及typedef
- * 功能：演示数组指针和指针数组及函数指针及typedef关键字用法
+ * 功能：演示数组指针和指针数组及函数指针及typedef关键字用法。
  */
 #include <stdio.h>
 #include <string.h>

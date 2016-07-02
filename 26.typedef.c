@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：函数指针实战和typedef
- * 功能：演示typedef的各种用法
+ * 功能：演示typedef的各种用法。
  */
 #include <stdio.h>
 

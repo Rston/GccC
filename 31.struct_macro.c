@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：offsetof宏与container_of宏
- * 功能：演示offsetof宏与container_of宏的使用
+ * 功能：演示offsetof宏与container_of宏的使用。
  */
 #include <stdio.h>
 

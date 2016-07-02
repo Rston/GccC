@@ -7,12 +7,15 @@
 #include <stdio.h>
 
 // 该函数的执行重在得到结果
+#if 0
 int add(int a, int b)
 {
 	return (a + b);				
 }
+#endif
 
 // 该函数的执行重在运行过程，不需要返回值
+#if 0
 void add(int a, int b)
 {
 	int c = 0;
@@ -20,8 +23,10 @@ void add(int a, int b)
 	c = a + b;
 	printf("c = %d.\n", c);
 }
+#endif
 
 // 该函数的执行既重结果又重过程
+#if 0
 int add(int a, int b)
 {
 	int c = 0;
@@ -30,4 +35,12 @@ int add(int a, int b)
 	printf("c = %d.\n", c);
 	
 	return c;
+}
+#endif
+
+int main(int argc, char **argv)
+{
+	printf("I am Rston.\n");
+	
+	return 0;
 }

@@ -1,7 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
- * 项目：程序结构：if else if 
+ * 项目：结构化程序设计
+ * 功能：演示if else if程序结构的基本使用。
  */
 #include <stdio.h>
 

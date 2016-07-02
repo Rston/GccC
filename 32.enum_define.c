@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：共用体和大小端及枚举
- * 功能：枚举的定义和使用详解
+ * 功能：枚举的定义和使用详解。
  */
 #include <stdio.h>
 
@@ -57,7 +57,7 @@ typedef enum
  *  错误类型举例
  ****************************************************************
  */ 
-/*
+#if 0
 //枚举类型重名，编译时报错：error: conflicting types for ‘DAY’
 typedef enum workday
 {
@@ -73,9 +73,9 @@ typedef enum weekend
 	SAT,
 	SUN,
 }DAY;
-*/
+#endif
 
-/*	
+#if 0	
 // 枚举成员重名，编译时报错：redeclaration of enumerator ‘MON’
 typedef enum workday
 {
@@ -105,13 +105,13 @@ typedef struct
 	int a;
 	char b;
 }st2;
-*/
+#endif
 
-/*		
+#if 0		
 // 宏定义可以重复定义(没有error但是有warning)，结果以最后一次定义为准
 #define MACRO1	12
 #define MACRO1	24
-*/ 
+#endif
  
 int main(int argc, char **argv)
 {

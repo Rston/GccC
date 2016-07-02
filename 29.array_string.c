@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：C语言字符串和字符数组
- * 功能：演示字符串和字符数组的与strlen和sizeof的纠葛
+ * 功能：演示字符串和字符数组的与strlen和sizeof的纠葛。
  */
 #include <stdio.h>
 #include <string.h>

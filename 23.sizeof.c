@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：数据类型和sizeof运算符
- * 功能：演示sizeof运算符和数组、指针组合在一起的各种情况
+ * 功能：演示sizeof运算符和数组、指针组合在一起的各种情况。
  */
  
 #include <stdio.h>

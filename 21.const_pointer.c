@@ -8,7 +8,7 @@
 
 int main(int argc, char **argv)
 {
-/*
+#if 0
 	int const *p1; 			// p1为指针变量指向可变，P1指向的变量只读
 	const int *p2;			// p2为指针变量指向可变，P2指向的变量只读
 	int * const p3;			// P3为指针变量只读，P3指向的变量的值可变
@@ -27,7 +27,7 @@ int main(int argc, char **argv)
 	
 	*p4 = 10;				// assignment of read-only location ‘*p4’
 	p4 = &a;				// assignment of read-only variable ‘p4’
-*/	
+#endif
 	
 	const int a = 8;
 	//a = 6;				//  error: assignment of read-only variable ‘a’

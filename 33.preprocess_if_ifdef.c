@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：C语言预处理详解
- * 功能：条件编译#ifdef和#if是使用方法
+ * 功能：条件编译#ifdef和#if是使用方法。
  */
 #include <stdio.h>
 

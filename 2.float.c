@@ -1,7 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
- * 项目：C语言数据类型-浮点型
+ * 项目：C语言数据类型
+ * 功能：演示浮点型的基本特征。
  */
 #include <stdio.h>
 int main(int argc, char **argv)

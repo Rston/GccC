@@ -2,10 +2,11 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：C语言预处理详解
- * 功能：通过预处理.i文件解释#define和typedef的本质区别
+ * 功能：通过预处理.i文件解释#define和typedef的本质区别。
  */
 
-/*	32.preprocess.i文件内容：
+#if 0
+32.preprocess.i文件内容：
 # 1 "33.preprocess.c"
 # 1 "<built-in>"
 # 1 "<command-line>"
@@ -21,10 +22,10 @@ int main(int argc, char **argv)
 
  return 0;
 }
-*/ 
+#endif 
  
 #define pchar char * 
-typedef char * PCHAR 
+typedef char * PCHAR;
 
 int main(int argc, char **argv)
 {
