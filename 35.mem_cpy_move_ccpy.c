@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：静态链接库和动态链接库
- * 功能：演示memcoy和memmove和memccoy函数的用法和区别
+ * 功能：演示memcoy和memmove和memccoy函数的用法和区别。
  */
 #include <stdio.h>
 #include <string.h>

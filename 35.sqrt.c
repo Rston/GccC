@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：静态链接库和动态链接库
- * 功能：演示调用某个数学库函数
+ * 功能：演示调用某个数学库函数。
  */
 #include <stdio.h>
 #include <math.h>

@@ -2,7 +2,7 @@
  * 公司：XXXX
  * 作者：Rston
  * 项目：静态链接库和动态链接库
- * 功能：自己使用动态链接库
+ * 功能：自己使用动态链接库。
  */
 #include "rston.h"
 #include <stdio.h>
