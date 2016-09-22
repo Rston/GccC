@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：共用体和大小端及枚举
  * 功能：演示通过位与、移位、强制类型转化测试机器的大小端模式。
  */

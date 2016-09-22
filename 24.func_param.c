@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：C语言函数传参详解
  * 功能：演示普通变量和结构体变量在函数中传参。
  */

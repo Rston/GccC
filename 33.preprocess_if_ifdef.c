@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：C语言预处理详解
  * 功能：条件编译#ifdef和#if是使用方法。
  */

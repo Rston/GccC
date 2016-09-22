@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：待定
  * 功能：获取main函数的返回值。
  */

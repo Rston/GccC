@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：C进阶之变量和常量
  * 功能：静态局部变量和局部变量的区别。
  */

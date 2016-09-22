@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：C语言常用运算符
  * 功能：演示++、--、/、%运算符的基本使用。
  */

@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：函数指针实战和typedef
  * 功能：结构体内嵌函数指针实现分层，此文件为下层，主要实现具体的计算器运算。
  */

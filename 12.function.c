@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：程序运行为啥需要内存
  * 功能：使用函数类比"程序运行的目的就是得到结果或过程"。
  */

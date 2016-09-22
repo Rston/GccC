@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：静态链接库和动态链接库
  * 功能：演示静态库和动态库所占用空间大小对比。
  */

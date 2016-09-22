@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：数据类型和sizeof运算符
  * 功能：演示变量数据类型的存取方式必须一致。
  */

@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：结构化程序设计
  * 功能：打印一张ASCII码表（提示：数字用%d，字符用%c打印）。
  */

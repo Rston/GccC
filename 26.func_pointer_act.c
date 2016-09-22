@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：函数指针实战和typedef
  * 功能：通过函数指针指向不同的函数实现多态，即同一个执行，得到不同的执行结果。
  */

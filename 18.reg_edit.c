@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：位操作符操作寄存器
  * 功能：演示清零取反置位等位操作符操作寄存器。
  */

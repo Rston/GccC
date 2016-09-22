@@ -1,6 +1,8 @@
 /*
  * 公司：XXXX
  * 作者：Rston
+ * 博客：http://blog.csdn.net/rston
+ * GitHub：https://github.com/rston
  * 项目：C语言预处理详解
  * 功能：通过预处理.i文件解释#define和typedef的本质区别。
  */
